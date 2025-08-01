@@ -43,7 +43,8 @@ We welcome contributions from the community! If you'd like to contribute:
 - [Junction GitHub Repository](https://github.com/airchains-network/junction)
 - [Official Documentation](https://docs.airchains.io)
 - [Community Discord](https://discord.com/invite/Vc8JMMCZ4Z)
-- [Twitter](https://x.com/airchains_io)
+- [X/Twitter](https://x.com/airchains_io)
+- [Blog](https://blog.airchains.io/)
 
 ## Acknowledgments
 
